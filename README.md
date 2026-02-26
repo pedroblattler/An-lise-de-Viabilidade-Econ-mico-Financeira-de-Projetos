@@ -1,30 +1,50 @@
 # Análise de Viabilidade Econômico-Financeira de Projetos
 
 ## Objetivo:
-Realizar a avaliação de viabilidade econômico-financeira de projetos de Engenharia de Produção, utilizando métricas financeiras introdutórias como VPL/NPV, TIR/IRR e Payback. O projeto tem como meta fornecer insights práticos e estruturados que auxiliem na tomada de decisão, priorização de investimentos e otimização de portfólio em contextos industriais.
+Explorar e estruturar os fundamentos da análise de viabilidade econômico-financeira de projetos, com foco nas métricas VPL (NPV), TIR (IRR) e Payback, amplamente utilizadas na Engenharia de Produção para suporte à decisão de investimentos.
 
 ## Metodologia:
 
-O projeto foi desenvolvido com o uso do NotebookLM, utilizando prompts estratégicos que orientam o modelo a se comportar como um segundo cérebro, organizando e sintetizando informações complexas em linguagem clara e acessível.
+Curadoria de 3 a 5 fontes sobre viabilidade de investimentos
 
-Textos e materiais fornecidos foram analisados e estruturados em Definições, Fórmulas, Exemplos Práticos, Aplicações em Projetos e Discussão Crítica.
+Estruturação de objetivos de estudo e perguntas estratégicas
 
-Para cada métrica financeira, foram extraídos conceitos-chave, exemplos numéricos simplificados e observações sobre limitações e melhores práticas, mantendo a aplicabilidade direta em projetos de Engenharia de Produção.
+Testes de variações de prompts para otimizar síntese e organização
 
-O NotebookLM foi usado para gerar resumos, tabelas comparativas e roteiros de estudo, tornando o conteúdo organizado, estratégico e pronto para aplicação prática.
+Consolidação do material em:
+
+Definições e fórmulas
+
+Exemplos numéricos introdutórios
+
+Tabelas comparativas entre VPL, TIR e Payback
+
+Discussão sobre aplicações e limitações dos indicadores
 
 
-## Resultados Esperados:
+## Resultados:
 
-Resumos estruturados de conceitos financeiros introdutórios.
+Mini guia estruturado sobre análise de investimentos
 
-Tabelas comparativas entre VPL/NPV, TIR/IRR e Payback.
+Comparação prática entre indicadores financeiros
 
-Exemplos práticos aplicáveis a projetos industriais.
+Glossário técnico organizado
 
-Roteiros de estudo e checklists que facilitam a análise e decisão de investimentos em Engenharia de Produção.
+Conjunto de prompts reutilizáveis para futuras análises
 
-Conteúdo final pronto para apresentação, estudo e aplicação prática, com clareza e organização estratégica.
+Material aplicável a estudos e decisões de investimento em Engenharia de Produção.
+
+## Metodologia:
+
+Competências Desenvolvidas.
+
+Fundamentos de análise de viabilidade econômica.
+
+Curadoria e organização de fontes técnicas.
+
+Engenharia de prompts.
+
+Uso estratégico de IA generativa como ferramenta cognitiva.
 
 ---
 

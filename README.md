@@ -5,32 +5,33 @@ Explorar e estruturar os fundamentos da análise de viabilidade econômico-finan
 
 ## Metodologia:
 
-Curadoria de 3 a 5 fontes sobre viabilidade de investimentos
+Curadoria de 3 a 5 fontes sobre viabilidade de investimentos.
 
-Estruturação de objetivos de estudo e perguntas estratégicas
+Estruturação de objetivos de estudo e perguntas estratégicas.
 
-Testes de variações de prompts para otimizar síntese e organização
+Testes de variações de prompts para otimizar síntese e organização.
+
 
 Consolidação do material em:
 
-Definições e fórmulas
+Definições e fórmulas.
 
-Exemplos numéricos introdutórios
+Exemplos numéricos introdutórios.
 
-Tabelas comparativas entre VPL, TIR e Payback
+Tabelas comparativas entre VPL, TIR e Payback.
 
-Discussão sobre aplicações e limitações dos indicadores
+Discussão sobre aplicações e limitações dos indicadores.
 
 
 ## Resultados:
 
-Mini guia estruturado sobre análise de investimentos
+Mini guia estruturado sobre análise de investimentos.
 
-Comparação prática entre indicadores financeiros
+Comparação prática entre indicadores financeiros.
 
-Glossário técnico organizado
+Glossário técnico organizado.
 
-Conjunto de prompts reutilizáveis para futuras análises
+Conjunto de prompts reutilizáveis para futuras análises.
 
 Material aplicável a estudos e decisões de investimento em Engenharia de Produção.
 

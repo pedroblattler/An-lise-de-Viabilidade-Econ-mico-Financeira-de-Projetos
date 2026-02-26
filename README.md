@@ -14,13 +14,13 @@ Testes de variações de prompts para otimizar síntese e organização.
 
 Consolidação do material em:
 
-Definições e fórmulas.
+- Definições e fórmulas.
 
-Exemplos numéricos introdutórios.
+- Exemplos numéricos introdutórios.
 
-Tabelas comparativas entre VPL, TIR e Payback.
+- Tabelas comparativas entre VPL, TIR e Payback.
 
-Discussão sobre aplicações e limitações dos indicadores.
+- Discussão sobre aplicações e limitações dos indicadores.
 
 
 ## Resultados:
